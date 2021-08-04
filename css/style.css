@@ -1,0 +1,11 @@
+.carousel-item {
+  height: 540px;
+}
+
+.carousel-item img {
+  -o-object-fit: fill;
+     object-fit: fill;
+  -o-object-position: center;
+     object-position: center;
+}
+/*# sourceMappingURL=style.css.map */
